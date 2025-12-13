@@ -52,7 +52,7 @@ When I'm not coding, you'll find me crocheting or knitting; which is why I built
 
 ### 💌 A Little Note
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+> *"The best way to predict the future is to create it."* 
 
 Thanks for stopping by! I'm always excited to collaborate on interesting projects or chat about web development, data science, or the best crochet patterns. Feel free to reach out!
 
