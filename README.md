@@ -2,7 +2,7 @@
   
 # ✨ Hey there, I'm Lyna! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F775C6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Lifelong+Learner;Data+Science+Enthusiast;Building+Cool+Stuff+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F775C6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Lifelong+Learner;Building+Cool+Stuff+%E2%98%95" alt="Typing SVG" />
 
 <div align="center" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeenusLynn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=F775C6&title_color=F775C6&icon_color=F775C6"/>
