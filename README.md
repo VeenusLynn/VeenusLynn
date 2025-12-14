@@ -3,15 +3,17 @@
 # ✨ Hey there, I'm Lyna! 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F775C6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Lifelong+Learner;Building+Cool+Stuff+%E2%98%95" alt="Typing SVG" />
-
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VeenusLynn&theme=dracula&border=F775C6&ring=F775C6&fire=F775C6&currStreakLabel=F775C6&sideLabels=F775C6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BD93F9"/>
+</div>
+<br/>
 <div align="center" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeenusLynn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=F775C6&title_color=F775C6&icon_color=F775C6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeenusLynn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=F775C6&title_color=F775C6&icon_color=F775C6&hide_rank=true"/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeenusLynn&layout=compact&langs_count=8&theme=dracula&border_color=F775C6&title_color=F775C6"/>
 </div>
 
-</div>
-
+ 
 ---
 
 ### 👋 About Me
