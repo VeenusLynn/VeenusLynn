@@ -14,19 +14,25 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeenusLynn&layout=compact&langs_count=8&theme=dracula&border_color=F775C6&title_color=F775C6"/>
 </div>
 
- 
----
+
+
 
 ### 👋 About Me
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20&height=4&section=header" width="100%"/> 
+<br/><br/>
+<p>
 I'm a **Full Stack Web Developer** specializing in the **MERN stack** (MongoDB, Express, React, Node.js), with a passion for building practical applications. Currently expanding my skillset into **AI and Machine Learning** as I work towards becoming a **Data Science Engineer**.
 
 When I'm not coding, you'll find me crocheting or knitting; which is why I built my own stitch counter app! I love creating tools that solve real-world problems, whether it's managing ad campaigns, organizing warehouse inventory, or tracking stitches in my latest craft project.
-
+</p>
 **Currently:** 🎓 Student | 💼 Building full-stack applications | 🤖 Learning AI/ML | 🧶 Crafting in my free time
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=3&section=header" width="100%"/>
 
-### 🛠️ Technologies & Tools
+<details>
+<summary><h3 style="display: inline;">🛠️ Technologies & Tools</h3></summary>
+
+<br>
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -64,7 +70,9 @@ When I'm not coding, you'll find me crocheting or knitting; which is why I built
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
 
+</details>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=3&section=header" width="100%"/>
 
 ### 💌 A Little Note
 
