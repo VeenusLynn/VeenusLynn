@@ -2,91 +2,69 @@
   
 # ✨ Hey there, I'm Lyna! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F775C6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Lifelong+Learner;Building+Cool+Stuff+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F775C6&center=true&vCenter=true&width=435&lines=Artificial+Intelligence+Engineer;Lifelong+Learner;Building+Cool+Stuff+%E2%98%95" alt="Typing SVG" />
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VeenusLynn&theme=dracula&border=F775C6&ring=F775C6&fire=F775C6&currStreakLabel=F775C6&sideLabels=F775C6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BD93F9"/>
 </div>
+
 <br/>
-<div align="center" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VeenusLynn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=F775C6&title_color=F775C6&icon_color=F775C6&hide_rank=true"/>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeenusLynn&layout=compact&langs_count=8&theme=dracula&border_color=F775C6&title_color=F775C6"/>
-</div>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VeenusLynn&theme=cotton-candy)](https://github.com/not1cyyy/github-readme-activity-graph)
 
 
+<b></b>
 
-
-### 👋 About Me
+<b></b>
+### About Me
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20&height=4&section=header" width="100%"/> 
 <br/><br/>
 <p>
-I'm a **Full Stack Web Developer** specializing in the **MERN stack** (MongoDB, Express, React, Node.js), with a passion for building practical applications. Currently expanding my skillset into **AI and Machine Learning** as I work towards becoming a **Data Science Engineer**.
+I'm a <b>Artificial Intelligence Engineer</b> at <b>Algérie Télécom Satellite</b> with an experience in <b>Full Stack Web Developing</b> using the <b>MERN Stack</b> <br/> (MongoDB, Express, React, Node.js).
 
-When I'm not coding, you'll find me crocheting or knitting; which is why I built my own stitch counter app! I love creating tools that solve real-world problems, whether it's managing ad campaigns, organizing warehouse inventory, or tracking stitches in my latest craft project.
+When I'm not coding, you'll find me crocheting or knitting; which is why I built my own stitch counter app!
 </p>
-**Currently:** 🎓 Student | 💼 Building full-stack applications | 🤖 Learning AI/ML | 🧶 Crafting in my free time
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=3&section=header" width="100%"/>
 
-<details>
-<summary><h3 style="display: inline;">🛠️ Technologies & Tools</h3></summary>
+### Working Stack
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20&height=4&section=header" width="100%"/> 
+<br/><br/>
+<p>
 
-<br>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" title="Google Colab" alt="Google Colab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/insomnia/4000BF" title="Insomnia" alt="Insomnia" width="40" height="40"/>&nbsp;
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+</div>
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI/ML & Data Science:**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
-
-**Tools & Others:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=3&section=header" width="100%"/>
 
 ### 💌 A Little Note
 
-> *"The best way to predict the future is to create it."* 
+> *"The best way to predict the future is to create it."*
 
-Thanks for stopping by! I'm always excited to collaborate on interesting projects or chat about web development, data science, or the best crochet patterns. Feel free to reach out!
-
-If you find my work interesting, consider giving some of my repositories a ⭐ - it really makes my day! 
 
 <div align="center">
-
-### 🎀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=VeenusLynn&color=F775C6&style=flat-square&label=Profile+Views)
 
 ### 📫 Let's Connect!
 
