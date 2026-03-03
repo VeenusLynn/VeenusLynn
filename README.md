@@ -20,7 +20,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20&height=4&section=header" width="100%"/> 
 <br/><br/>
 <p>
-I'm a <b>Artificial Intelligence Engineer</b> at <b>Algérie Télécom Satellite</b> with an experience in <b>Full Stack Web Developing</b> using the <b>MERN Stack</b> <br/> (MongoDB, Express, React, Node.js).
+I'm an <b>Artificial Intelligence Engineer</b> at <b>Algérie Télécom Satellite</b> with an experience in <b>Full Stack Web Developing</b> using the <b>MERN Stack</b> <br/> (MongoDB, Express, React, Node.js).
 
 When I'm not coding, you'll find me crocheting or knitting; which is why I built my own stitch counter app!
 </p>
